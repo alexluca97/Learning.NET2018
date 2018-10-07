@@ -1,0 +1,17 @@
+E:\Facultate\Learning .NET\Laboratorul1\ProductManager.Test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Facultate\Learning .NET\Laboratorul1\ProductManager.Test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+E:\Facultate\Learning .NET\Laboratorul1\ProductManager.Test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+E:\Facultate\Learning .NET\Laboratorul1\ProductManager.Test\bin\Debug\netcoreapp2.0\ProductManager.Test.deps.json
+E:\Facultate\Learning .NET\Laboratorul1\ProductManager.Test\bin\Debug\netcoreapp2.0\ProductManager.Test.runtimeconfig.json
+E:\Facultate\Learning .NET\Laboratorul1\ProductManager.Test\bin\Debug\netcoreapp2.0\ProductManager.Test.runtimeconfig.dev.json
+E:\Facultate\Learning .NET\Laboratorul1\ProductManager.Test\bin\Debug\netcoreapp2.0\ProductManager.Test.dll
+E:\Facultate\Learning .NET\Laboratorul1\ProductManager.Test\bin\Debug\netcoreapp2.0\ProductManager.Test.pdb
+E:\Facultate\Learning .NET\Laboratorul1\ProductManager.Test\bin\Debug\netcoreapp2.0\ProductManager.dll
+E:\Facultate\Learning .NET\Laboratorul1\ProductManager.Test\bin\Debug\netcoreapp2.0\ProductManager.pdb
+E:\Facultate\Learning .NET\Laboratorul1\ProductManager.Test\obj\Debug\netcoreapp2.0\ProductManager.Test.csprojAssemblyReference.cache
+E:\Facultate\Learning .NET\Laboratorul1\ProductManager.Test\obj\Debug\netcoreapp2.0\ProductManager.Test.csproj.CoreCompileInputs.cache
+E:\Facultate\Learning .NET\Laboratorul1\ProductManager.Test\obj\Debug\netcoreapp2.0\ProductManager.Test.AssemblyInfoInputs.cache
+E:\Facultate\Learning .NET\Laboratorul1\ProductManager.Test\obj\Debug\netcoreapp2.0\ProductManager.Test.AssemblyInfo.cs
+E:\Facultate\Learning .NET\Laboratorul1\ProductManager.Test\obj\Debug\netcoreapp2.0\ProductManager.Test.csproj.CopyComplete
+E:\Facultate\Learning .NET\Laboratorul1\ProductManager.Test\obj\Debug\netcoreapp2.0\ProductManager.Test.dll
+E:\Facultate\Learning .NET\Laboratorul1\ProductManager.Test\obj\Debug\netcoreapp2.0\ProductManager.Test.pdb

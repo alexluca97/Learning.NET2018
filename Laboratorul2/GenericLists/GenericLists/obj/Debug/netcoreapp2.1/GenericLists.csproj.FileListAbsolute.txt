@@ -1,0 +1,9 @@
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\GenericLists\GenericLists\bin\Debug\netcoreapp2.1\GenericLists.deps.json
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\GenericLists\GenericLists\bin\Debug\netcoreapp2.1\GenericLists.dll
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\GenericLists\GenericLists\bin\Debug\netcoreapp2.1\GenericLists.pdb
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\GenericLists\GenericLists\obj\Debug\netcoreapp2.1\GenericLists.csprojAssemblyReference.cache
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\GenericLists\GenericLists\obj\Debug\netcoreapp2.1\GenericLists.csproj.CoreCompileInputs.cache
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\GenericLists\GenericLists\obj\Debug\netcoreapp2.1\GenericLists.AssemblyInfoInputs.cache
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\GenericLists\GenericLists\obj\Debug\netcoreapp2.1\GenericLists.AssemblyInfo.cs
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\GenericLists\GenericLists\obj\Debug\netcoreapp2.1\GenericLists.dll
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\GenericLists\GenericLists\obj\Debug\netcoreapp2.1\GenericLists.pdb

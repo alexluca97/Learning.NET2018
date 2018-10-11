@@ -1,0 +1,17 @@
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\GenericLists\GenericListTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\GenericLists\GenericListTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\GenericLists\GenericListTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\GenericLists\GenericListTest\bin\Debug\netcoreapp2.1\GenericListTest.deps.json
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\GenericLists\GenericListTest\bin\Debug\netcoreapp2.1\GenericListTest.runtimeconfig.json
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\GenericLists\GenericListTest\bin\Debug\netcoreapp2.1\GenericListTest.runtimeconfig.dev.json
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\GenericLists\GenericListTest\bin\Debug\netcoreapp2.1\GenericListTest.dll
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\GenericLists\GenericListTest\bin\Debug\netcoreapp2.1\GenericListTest.pdb
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\GenericLists\GenericListTest\bin\Debug\netcoreapp2.1\GenericLists.dll
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\GenericLists\GenericListTest\bin\Debug\netcoreapp2.1\GenericLists.pdb
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\GenericLists\GenericListTest\obj\Debug\netcoreapp2.1\GenericListTest.csprojAssemblyReference.cache
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\GenericLists\GenericListTest\obj\Debug\netcoreapp2.1\GenericListTest.csproj.CoreCompileInputs.cache
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\GenericLists\GenericListTest\obj\Debug\netcoreapp2.1\GenericListTest.AssemblyInfoInputs.cache
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\GenericLists\GenericListTest\obj\Debug\netcoreapp2.1\GenericListTest.AssemblyInfo.cs
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\GenericLists\GenericListTest\obj\Debug\netcoreapp2.1\GenericListTest.csproj.CopyComplete
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\GenericLists\GenericListTest\obj\Debug\netcoreapp2.1\GenericListTest.dll
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\GenericLists\GenericListTest\obj\Debug\netcoreapp2.1\GenericListTest.pdb

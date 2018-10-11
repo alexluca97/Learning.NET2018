@@ -1,0 +1,17 @@
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Arrays\Arrays.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Arrays\Arrays.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Arrays\Arrays.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Arrays\Arrays.Test\bin\Debug\netcoreapp2.1\Arrays.Test.deps.json
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Arrays\Arrays.Test\bin\Debug\netcoreapp2.1\Arrays.Test.runtimeconfig.json
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Arrays\Arrays.Test\bin\Debug\netcoreapp2.1\Arrays.Test.runtimeconfig.dev.json
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Arrays\Arrays.Test\bin\Debug\netcoreapp2.1\Arrays.Test.dll
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Arrays\Arrays.Test\bin\Debug\netcoreapp2.1\Arrays.Test.pdb
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Arrays\Arrays.Test\bin\Debug\netcoreapp2.1\Arrays.dll
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Arrays\Arrays.Test\bin\Debug\netcoreapp2.1\Arrays.pdb
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Arrays\Arrays.Test\obj\Debug\netcoreapp2.1\Arrays.Test.csprojAssemblyReference.cache
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Arrays\Arrays.Test\obj\Debug\netcoreapp2.1\Arrays.Test.csproj.CoreCompileInputs.cache
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Arrays\Arrays.Test\obj\Debug\netcoreapp2.1\Arrays.Test.AssemblyInfoInputs.cache
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Arrays\Arrays.Test\obj\Debug\netcoreapp2.1\Arrays.Test.AssemblyInfo.cs
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Arrays\Arrays.Test\obj\Debug\netcoreapp2.1\Arrays.Test.csproj.CopyComplete
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Arrays\Arrays.Test\obj\Debug\netcoreapp2.1\Arrays.Test.dll
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Arrays\Arrays.Test\obj\Debug\netcoreapp2.1\Arrays.Test.pdb

@@ -1,0 +1,16 @@
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul2\Laborator2\LibraryClass.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul2\Laborator2\LibraryClass.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul2\Laborator2\LibraryClass.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul2\Laborator2\LibraryClass.Test\bin\Debug\netcoreapp2.2\LibraryClass.Test.deps.json
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul2\Laborator2\LibraryClass.Test\bin\Debug\netcoreapp2.2\LibraryClass.Test.runtimeconfig.json
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul2\Laborator2\LibraryClass.Test\bin\Debug\netcoreapp2.2\LibraryClass.Test.runtimeconfig.dev.json
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul2\Laborator2\LibraryClass.Test\bin\Debug\netcoreapp2.2\LibraryClass.Test.dll
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul2\Laborator2\LibraryClass.Test\bin\Debug\netcoreapp2.2\LibraryClass.Test.pdb
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul2\Laborator2\LibraryClass.Test\bin\Debug\netcoreapp2.2\LibraryClass.dll
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul2\Laborator2\LibraryClass.Test\bin\Debug\netcoreapp2.2\LibraryClass.pdb
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul2\Laborator2\LibraryClass.Test\obj\Debug\netcoreapp2.2\LibraryClass.Test.csprojResolveAssemblyReference.cache
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul2\Laborator2\LibraryClass.Test\obj\Debug\netcoreapp2.2\LibraryClass.Test.csproj.CoreCompileInputs.cache
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul2\Laborator2\LibraryClass.Test\obj\Debug\netcoreapp2.2\LibraryClass.Test.AssemblyInfoInputs.cache
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul2\Laborator2\LibraryClass.Test\obj\Debug\netcoreapp2.2\LibraryClass.Test.AssemblyInfo.cs
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul2\Laborator2\LibraryClass.Test\obj\Debug\netcoreapp2.2\LibraryClass.Test.dll
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul2\Laborator2\LibraryClass.Test\obj\Debug\netcoreapp2.2\LibraryClass.Test.pdb

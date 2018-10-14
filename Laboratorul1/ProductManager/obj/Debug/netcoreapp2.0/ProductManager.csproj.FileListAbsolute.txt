@@ -7,3 +7,12 @@ E:\Facultate\Learning .NET\Laboratorul1\ProductManager\obj\Debug\netcoreapp2.0\P
 E:\Facultate\Learning .NET\Laboratorul1\ProductManager\obj\Debug\netcoreapp2.0\ProductManager.dll
 E:\Facultate\Learning .NET\Laboratorul1\ProductManager\obj\Debug\netcoreapp2.0\ProductManager.pdb
 E:\Facultate\Learning .NET\Laboratorul1\ProductManager\obj\Debug\netcoreapp2.0\ProductManager.csprojAssemblyReference.cache
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul1\ProductManager\bin\Debug\netcoreapp2.0\ProductManager.deps.json
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul1\ProductManager\bin\Debug\netcoreapp2.0\ProductManager.dll
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul1\ProductManager\bin\Debug\netcoreapp2.0\ProductManager.pdb
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul1\ProductManager\obj\Debug\netcoreapp2.0\ProductManager.csprojResolveAssemblyReference.cache
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul1\ProductManager\obj\Debug\netcoreapp2.0\ProductManager.csproj.CoreCompileInputs.cache
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul1\ProductManager\obj\Debug\netcoreapp2.0\ProductManager.AssemblyInfoInputs.cache
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul1\ProductManager\obj\Debug\netcoreapp2.0\ProductManager.AssemblyInfo.cs
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul1\ProductManager\obj\Debug\netcoreapp2.0\ProductManager.dll
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul1\ProductManager\obj\Debug\netcoreapp2.0\ProductManager.pdb

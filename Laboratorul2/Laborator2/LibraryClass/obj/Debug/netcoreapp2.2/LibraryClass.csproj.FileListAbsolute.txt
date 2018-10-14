@@ -1,0 +1,9 @@
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul2\Laborator2\LibraryClass\bin\Debug\netcoreapp2.2\LibraryClass.deps.json
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul2\Laborator2\LibraryClass\bin\Debug\netcoreapp2.2\LibraryClass.dll
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul2\Laborator2\LibraryClass\bin\Debug\netcoreapp2.2\LibraryClass.pdb
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul2\Laborator2\LibraryClass\obj\Debug\netcoreapp2.2\LibraryClass.csprojResolveAssemblyReference.cache
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul2\Laborator2\LibraryClass\obj\Debug\netcoreapp2.2\LibraryClass.csproj.CoreCompileInputs.cache
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul2\Laborator2\LibraryClass\obj\Debug\netcoreapp2.2\LibraryClass.AssemblyInfoInputs.cache
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul2\Laborator2\LibraryClass\obj\Debug\netcoreapp2.2\LibraryClass.AssemblyInfo.cs
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul2\Laborator2\LibraryClass\obj\Debug\netcoreapp2.2\LibraryClass.dll
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul2\Laborator2\LibraryClass\obj\Debug\netcoreapp2.2\LibraryClass.pdb

@@ -27,7 +27,7 @@ namespace ProductManager.Test
         public void GivenProductName_ShouldReturnNull()
         {
             ProductRepository = new ProductRepository(productList);
-            Assert.Equal(null, ProductRepository.GetProductByName("product10"));
+            Assert.Equal(null,ProductRepository.GetProductByName("product10"));
         }
 
         [Fact]

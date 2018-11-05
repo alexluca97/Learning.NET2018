@@ -1,0 +1,15 @@
+C:\Users\Octav\Desktop\LaboratorNET2\LaboratorNET2\bin\Debug\netcoreapp2.1\LaboratorNET2.deps.json
+C:\Users\Octav\Desktop\LaboratorNET2\LaboratorNET2\bin\Debug\netcoreapp2.1\LaboratorNET2.dll
+C:\Users\Octav\Desktop\LaboratorNET2\LaboratorNET2\obj\Debug\netcoreapp2.1\LaboratorNET2.csprojAssemblyReference.cache
+C:\Users\Octav\Desktop\LaboratorNET2\LaboratorNET2\obj\Debug\netcoreapp2.1\LaboratorNET2.csproj.CoreCompileInputs.cache
+C:\Users\Octav\Desktop\LaboratorNET2\LaboratorNET2\obj\Debug\netcoreapp2.1\LaboratorNET2.AssemblyInfoInputs.cache
+C:\Users\Octav\Desktop\LaboratorNET2\LaboratorNET2\obj\Debug\netcoreapp2.1\LaboratorNET2.AssemblyInfo.cs
+D:\Faculty\Facultate3\Learning .NET\Laborator4-master\LaboratorNET2\bin\Debug\netcoreapp2.1\LaboratorNET2.deps.json
+D:\Faculty\Facultate3\Learning .NET\Laborator4-master\LaboratorNET2\bin\Debug\netcoreapp2.1\LaboratorNET2.dll
+D:\Faculty\Facultate3\Learning .NET\Laborator4-master\LaboratorNET2\obj\Debug\netcoreapp2.1\LaboratorNET2.csproj.CoreCompileInputs.cache
+D:\Faculty\Facultate3\Learning .NET\Laborator4-master\LaboratorNET2\obj\Debug\netcoreapp2.1\LaboratorNET2.AssemblyInfoInputs.cache
+D:\Faculty\Facultate3\Learning .NET\Laborator4-master\LaboratorNET2\obj\Debug\netcoreapp2.1\LaboratorNET2.AssemblyInfo.cs
+D:\Faculty\Facultate3\Learning .NET\Laborator4-master\LaboratorNET2\bin\Debug\netcoreapp2.1\LaboratorNET2.pdb
+D:\Faculty\Facultate3\Learning .NET\Laborator4-master\LaboratorNET2\obj\Debug\netcoreapp2.1\LaboratorNET2.csprojResolveAssemblyReference.cache
+D:\Faculty\Facultate3\Learning .NET\Laborator4-master\LaboratorNET2\obj\Debug\netcoreapp2.1\LaboratorNET2.dll
+D:\Faculty\Facultate3\Learning .NET\Laborator4-master\LaboratorNET2\obj\Debug\netcoreapp2.1\LaboratorNET2.pdb

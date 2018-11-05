@@ -1,0 +1,15 @@
+D:\Faculty\Facultate3\Learning .NET\Laborator4-master\Program\obj\Debug\netcoreapp2.2\Program.csprojResolveAssemblyReference.cache
+D:\Faculty\Facultate3\Learning .NET\Laborator4-master\Program\obj\Debug\netcoreapp2.2\Program.csproj.CoreCompileInputs.cache
+D:\Faculty\Facultate3\Learning .NET\Laborator4-master\Program\obj\Debug\netcoreapp2.2\Program.AssemblyInfoInputs.cache
+D:\Faculty\Facultate3\Learning .NET\Laborator4-master\Program\obj\Debug\netcoreapp2.2\Program.AssemblyInfo.cs
+D:\Faculty\Facultate3\Learning .NET\Laborator4-master\Program\bin\Debug\netcoreapp2.2\Program.deps.json
+D:\Faculty\Facultate3\Learning .NET\Laborator4-master\Program\bin\Debug\netcoreapp2.2\Program.runtimeconfig.json
+D:\Faculty\Facultate3\Learning .NET\Laborator4-master\Program\bin\Debug\netcoreapp2.2\Program.runtimeconfig.dev.json
+D:\Faculty\Facultate3\Learning .NET\Laborator4-master\Program\bin\Debug\netcoreapp2.2\Program.dll
+D:\Faculty\Facultate3\Learning .NET\Laborator4-master\Program\bin\Debug\netcoreapp2.2\Program.pdb
+D:\Faculty\Facultate3\Learning .NET\Laborator4-master\Program\bin\Debug\netcoreapp2.2\LaboratorNET2.dll
+D:\Faculty\Facultate3\Learning .NET\Laborator4-master\Program\bin\Debug\netcoreapp2.2\LaboratorNET2.Repository.dll
+D:\Faculty\Facultate3\Learning .NET\Laborator4-master\Program\bin\Debug\netcoreapp2.2\LaboratorNET2.Repository.pdb
+D:\Faculty\Facultate3\Learning .NET\Laborator4-master\Program\bin\Debug\netcoreapp2.2\LaboratorNET2.pdb
+D:\Faculty\Facultate3\Learning .NET\Laborator4-master\Program\obj\Debug\netcoreapp2.2\Program.dll
+D:\Faculty\Facultate3\Learning .NET\Laborator4-master\Program\obj\Debug\netcoreapp2.2\Program.pdb

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using Lab6.Domain;
+using Lab6.Core;
+using Lab6.DAL.Models;
 using Lab6.Managers;
-using Lab6.Domain.Models;
 
 namespace Lab6.Handlers
 {
@@ -9,12 +9,12 @@ namespace Lab6.Handlers
     {
         private readonly IPointOfInterestManager _manager;
 
-        public PointOfInterestHandler()
+        public PointOfInterestHandler(IPointOfInterestManager manager)
         {
-            _manager = new PointOfInterestManager();
+            _manager = manager;
         }
 
-        public IList<PointOfInterestDTO> HandlePointOfInterestGet()
+        public IList<PointOfInterestDto> HandlePointOfInterestGet()
         {
             return _manager.GetAllPointsOfInterest();
         }

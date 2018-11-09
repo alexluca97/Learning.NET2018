@@ -1,0 +1,9 @@
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul6\Lab6.Domain\bin\Debug\netcoreapp2.2\Lab6.Domain.deps.json
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul6\Lab6.Domain\bin\Debug\netcoreapp2.2\Lab6.Domain.dll
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul6\Lab6.Domain\bin\Debug\netcoreapp2.2\Lab6.Domain.pdb
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul6\Lab6.Domain\obj\Debug\netcoreapp2.2\Lab6.Domain.csprojResolveAssemblyReference.cache
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul6\Lab6.Domain\obj\Debug\netcoreapp2.2\Lab6.Domain.csproj.CoreCompileInputs.cache
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul6\Lab6.Domain\obj\Debug\netcoreapp2.2\Lab6.Domain.AssemblyInfoInputs.cache
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul6\Lab6.Domain\obj\Debug\netcoreapp2.2\Lab6.Domain.AssemblyInfo.cs
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul6\Lab6.Domain\obj\Debug\netcoreapp2.2\Lab6.Domain.dll
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul6\Lab6.Domain\obj\Debug\netcoreapp2.2\Lab6.Domain.pdb

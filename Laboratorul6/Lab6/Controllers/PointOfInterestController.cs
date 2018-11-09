@@ -1,23 +1,24 @@
 ﻿using System.Collections.Generic;
-using Lab6.Domain;
+using Lab6.Core;
+using Lab6.DAL.Models;
+using Lab6.Domain.Domain.Models;
 using Lab6.Handlers;
 using Microsoft.AspNetCore.Mvc;
-using Lab6.Domain.Models;
 
 namespace Lab6.Controllers
 {
     [Route("api/[controller]")]
     public class PointOfInterestController : Controller
     {
-        private readonly PointOfInterestHandler _handler;
+        private readonly IPointOfInterestHandler _handler;
 
-        public PointOfInterestController()
+        public PointOfInterestController(IPointOfInterestHandler handler)
         {
-            _handler = new PointOfInterestHandler();
+            _handler = handler;
         }
 
         [HttpGet]
-        public IList<PointOfInterestDTO> Get()
+        public IList<PointOfInterestDto> Get()
         {
             return _handler.HandlePointOfInterestGet();
         }

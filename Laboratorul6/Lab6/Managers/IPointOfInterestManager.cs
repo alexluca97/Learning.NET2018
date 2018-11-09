@@ -1,12 +1,12 @@
 ﻿using System.Collections.Generic;
-using Lab6.Domain;
-using Lab6.Domain.Models;
+using Lab6.Core;
+using Lab6.DAL.Models;
 
 namespace Lab6.Managers
 {
     public interface IPointOfInterestManager
     {
-        IList<PointOfInterestDTO> GetAllPointsOfInterest();
+        IList<PointOfInterestDto> GetAllPointsOfInterest();
         void CreatePointOfInterest(PointOfInterest point);
     }
 }

@@ -9,3 +9,10 @@ D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul6\Lab6\obj\Debug
 D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul6\Lab6\bin\Debug\netcoreapp2.2\Lab6.pdb
 D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul6\Lab6\obj\Debug\netcoreapp2.2\Lab6.dll
 D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul6\Lab6\obj\Debug\netcoreapp2.2\Lab6.pdb
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul6\Lab6\bin\Debug\netcoreapp2.2\Lab6.DAL.dll
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul6\Lab6\bin\Debug\netcoreapp2.2\Lab6.Domain.dll
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul6\Lab6\bin\Debug\netcoreapp2.2\Lab6.DAL.pdb
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul6\Lab6\bin\Debug\netcoreapp2.2\Lab6.Domain.pdb
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul6\Lab6\obj\Debug\netcoreapp2.2\Lab6.RazorAssemblyInfo.cache
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul6\Lab6\obj\Debug\netcoreapp2.2\Lab6.RazorAssemblyInfo.cs
+D:\Faculty\Facultate3\Learning .NET\Learning.NET2018\Laboratorul6\Lab6\obj\Debug\netcoreapp2.2\Lab6.RazorTargetAssemblyInfo.cache

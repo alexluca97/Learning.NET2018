@@ -1,17 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
-using Lab6.Domain.Models;
-using Lab6.DAL;
+using Lab6.DAL.Context;
+using Lab6.DAL.Models;
 
 namespace Lab6.Repositories
 {
     public class PointOfInterestRepository : IPointOfInterestRepository
     {
-        Lab6Context _context;
+        private readonly Lab6Context _context;
 
-        public PointOfInterestRepository()
+        public PointOfInterestRepository(Lab6Context context)
         {
-            _context = new Lab6Context();
+            _context = context;
         }
 
         public IEnumerable<PointOfInterest> GetAllPointsOfInterest()

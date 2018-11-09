@@ -1,5 +1,5 @@
-﻿using System.Collections.Generic;
-using Lab6.DAL.Models;
+﻿using Lab6.DAL.Models;
+using System.Collections.Generic;
 
 namespace Lab6.Repositories
 {

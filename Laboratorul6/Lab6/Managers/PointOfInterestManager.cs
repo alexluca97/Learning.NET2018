@@ -1,8 +1,8 @@
 ﻿using Lab6.Repositories;
+using Lab6.DAL.Models;
 using System.Collections.Generic;
 using System.Linq;
-using Lab6.Core;
-using Lab6.DAL.Models;
+using Lab6.Presentation.ViewModel;
 
 namespace Lab6.Managers
 {
@@ -27,8 +27,9 @@ namespace Lab6.Managers
             return allPointsInDb.Select(pointOfInterest => 
                 new PointOfInterestDto
                 {
-                    Coordinates = pointOfInterest.Coordinates,
-                    Name = pointOfInterest.Name
+                    Name = pointOfInterest.Name,
+                    Longitude = 12.5,
+                    Latitude = 13.5
                 }).ToList();
         }
     }

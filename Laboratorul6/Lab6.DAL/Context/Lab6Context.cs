@@ -1,4 +1,5 @@
 ﻿using Lab6.DAL.Models;
+using Lab6.Domain.Domain.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace Lab6.DAL.Context

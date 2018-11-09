@@ -1,0 +1,9 @@
+C:\Users\ogensthaler\source\repos\Learning.NET2018\Laboratorul6\Lab6.DAL\obj\Debug\netcoreapp2.1\Lab6.DAL.csprojAssemblyReference.cache
+C:\Users\ogensthaler\source\repos\Learning.NET2018\Laboratorul6\Lab6.DAL\obj\Debug\netcoreapp2.1\Lab6.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ogensthaler\source\repos\Learning.NET2018\Laboratorul6\Lab6.DAL\obj\Debug\netcoreapp2.1\Lab6.DAL.AssemblyInfoInputs.cache
+C:\Users\ogensthaler\source\repos\Learning.NET2018\Laboratorul6\Lab6.DAL\obj\Debug\netcoreapp2.1\Lab6.DAL.AssemblyInfo.cs
+C:\Users\ogensthaler\source\repos\Learning.NET2018\Laboratorul6\Lab6.DAL\bin\Debug\netcoreapp2.1\Lab6.DAL.deps.json
+C:\Users\ogensthaler\source\repos\Learning.NET2018\Laboratorul6\Lab6.DAL\bin\Debug\netcoreapp2.1\Lab6.DAL.dll
+C:\Users\ogensthaler\source\repos\Learning.NET2018\Laboratorul6\Lab6.DAL\bin\Debug\netcoreapp2.1\Lab6.DAL.pdb
+C:\Users\ogensthaler\source\repos\Learning.NET2018\Laboratorul6\Lab6.DAL\obj\Debug\netcoreapp2.1\Lab6.DAL.dll
+C:\Users\ogensthaler\source\repos\Learning.NET2018\Laboratorul6\Lab6.DAL\obj\Debug\netcoreapp2.1\Lab6.DAL.pdb

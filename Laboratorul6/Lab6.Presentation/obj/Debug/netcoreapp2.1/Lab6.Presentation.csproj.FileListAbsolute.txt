@@ -1,0 +1,8 @@
+C:\Users\ogensthaler\source\repos\Learning.NET2018\Laboratorul6\Lab6.Presentation\obj\Debug\netcoreapp2.1\Lab6.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\ogensthaler\source\repos\Learning.NET2018\Laboratorul6\Lab6.Presentation\obj\Debug\netcoreapp2.1\Lab6.Presentation.AssemblyInfoInputs.cache
+C:\Users\ogensthaler\source\repos\Learning.NET2018\Laboratorul6\Lab6.Presentation\obj\Debug\netcoreapp2.1\Lab6.Presentation.AssemblyInfo.cs
+C:\Users\ogensthaler\source\repos\Learning.NET2018\Laboratorul6\Lab6.Presentation\bin\Debug\netcoreapp2.1\Lab6.Presentation.deps.json
+C:\Users\ogensthaler\source\repos\Learning.NET2018\Laboratorul6\Lab6.Presentation\bin\Debug\netcoreapp2.1\Lab6.Presentation.dll
+C:\Users\ogensthaler\source\repos\Learning.NET2018\Laboratorul6\Lab6.Presentation\bin\Debug\netcoreapp2.1\Lab6.Presentation.pdb
+C:\Users\ogensthaler\source\repos\Learning.NET2018\Laboratorul6\Lab6.Presentation\obj\Debug\netcoreapp2.1\Lab6.Presentation.dll
+C:\Users\ogensthaler\source\repos\Learning.NET2018\Laboratorul6\Lab6.Presentation\obj\Debug\netcoreapp2.1\Lab6.Presentation.pdb

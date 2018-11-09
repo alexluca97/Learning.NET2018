@@ -32,7 +32,7 @@ namespace Lab6
             services.AddMvc();
 
             services.AddDbContext<Lab6Context>(options =>
-                options.UseSqlServer(@"Data Source=(localdb)\ProjectsV13;Initial Catalog=master;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=True;ApplicationIntent=ReadWrite;MultiSubnetFailover=False"));
+                options.UseSqlServer(@"Data Source=EN617364;Initial Catalog=test;Integrated Security=True"));
 
             services.AddTransient<IPointOfInterestHandler, PointOfInterestHandler>();
             services.AddTransient<IPointOfInterestManager, PointOfInterestManager>();

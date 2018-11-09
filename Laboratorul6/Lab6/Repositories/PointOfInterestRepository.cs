@@ -1,7 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using Lab6.DAL.Context;
+﻿using Lab6.DAL.Context;
 using Lab6.DAL.Models;
+using System;
+using System.Collections.Generic;
 
 namespace Lab6.Repositories
 {
@@ -16,7 +16,7 @@ namespace Lab6.Repositories
 
         public IEnumerable<PointOfInterest> GetAllPointsOfInterest()
         {
-            throw new NotImplementedException();
+            return _context.PointOfInterest;
         }
 
         public PointOfInterest GetPointsOfInterestById(int id)
@@ -37,6 +37,7 @@ namespace Lab6.Repositories
         public void CreatePointOfInterest(PointOfInterest point)
         {
             _context.PointOfInterest.Add(point);
+            _context.SaveChanges();
         }
     }
 }

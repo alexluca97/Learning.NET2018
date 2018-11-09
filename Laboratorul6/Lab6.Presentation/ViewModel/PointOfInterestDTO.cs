@@ -1,7 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
-using Lab6.Domain.Domain.Models;
 
-namespace Lab6.Core
+namespace Lab6.Presentation.ViewModel
 {
     public class PointOfInterestDto
     {
@@ -9,6 +8,9 @@ namespace Lab6.Core
         public string Name { get; set; }
 
         [Required]
-        public Coordinates Coordinates { get; set; }
+        public double Longitude { get; set; }
+
+        [Required]
+        public double Latitude { get; set; }
     }
 }

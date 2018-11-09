@@ -1,9 +1,9 @@
-﻿using System.Collections.Generic;
-using Lab6.Core;
-using Lab6.DAL.Models;
+﻿using Lab6.DAL.Models;
 using Lab6.Domain.Domain.Models;
 using Lab6.Handlers;
+using Lab6.Presentation.ViewModel;
 using Microsoft.AspNetCore.Mvc;
+using System.Collections.Generic;
 
 namespace Lab6.Controllers
 {
@@ -28,13 +28,9 @@ namespace Lab6.Controllers
         {
             _handler.HandlePointOfInterestPost(new PointOfInterest
             {
-                Id = 1,
                 Name = "test",
-                Coordinates = new Coordinates
-                {
-                    Latitude = 12.5,
-                    Longitude = 12.5
-                }
+                Latitude = 12.5,
+                Longitude = 12.5
             });
         }
     }
